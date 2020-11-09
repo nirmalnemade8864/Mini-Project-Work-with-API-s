@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Felix",
+      "address": "Pune Sector 3",
+      "email": "felix@gmail.com"
+    },
+    {
+      "name": "John doe",
+      "address": "2003 USA Street",
+      "email": "johndoe@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "demo",
+      "address": "2003 demo Street",
+      "email": "demo@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "sandra",
+      "address": "Sandra A Street Road",
+      "email": "sandra@gmail.com",
+      "id": 4
+    }
+  ]
+}
